@@ -1,0 +1,39 @@
+{
+  "ItemInfo":[
+    {
+      "ItemId": "6",
+      "Type": "1",
+      "AmmoType": "06",
+      "Name": "Gun 06"
+},
+    {
+      "ItemId": "7",
+      "Type": "3",
+      "AmmoType": "07",
+      "Name": "Gun 07"
+},
+    {
+      "ItemId": "3",
+      "Type": "4",
+      "AmmoType": "03",
+      "Name": "Gun 03"
+},
+        {
+      "ItemId": "2",
+      "Type": "7",
+      "AmmoType": "06",
+      "Name": "Gun 02"
+},
+    {
+      "ItemId": "4",
+      "Type": "8",
+      "AmmoType": "06",
+      "Name": "Gun 04"
+},
+    {
+      "ItemId": "1",
+      "Type": "6",
+      "AmmoType": "03",
+      "Name": "Gun 01"
+}
+]}
